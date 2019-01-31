@@ -24,6 +24,29 @@ body {
   background-size: cover;
 }
 
+.narrow-carousel-item {
+  height: 20vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.narrow-carousel-caption {
+  position: relative;
+  right: 0%;
+  top: 100px;
+  bottom: 0px;
+  left: 0%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #fff;
+  text-align: center;
+}
+
 .portfolio-item {
   margin-bottom: 30px;
 }

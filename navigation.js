@@ -38,7 +38,7 @@ document.write("\
             Challenges\
           </a>\
           <div class=\"dropdown-menu dropdown-menu-right\" aria-labelledby=\"navbarDropdownChallenges\">\
-            <a class=\"dropdown-item\" href=\"challenge2019.html\">Detection In the Wild Challenge Workshop 2019</a>\
+            <a class=\"dropdown-item\" href=\"workshop2019.html\">Detection In the Wild Challenge Workshop 2019</a>\
           </div>\
         </li>\
         <li class=\"nav-item dropdown\">\
