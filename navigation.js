@@ -1,7 +1,7 @@
 document.write("\
 <nav class=\"navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top\">\
   <div class=\"container\">\
-    <a class=\"navbar-brand col-lg-2\" href=\"index.html\">\
+    <a class=\"navbar-brand col-lg-2\" href=\"overview.html\">\
         <img src=\"images/logo.png\" width=100% alt=\"Megvii Inc. (Face++)\"/>\
     </a>\
     <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarResponsive\" aria-controls=\"navbarResponsive\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\
@@ -18,7 +18,7 @@ document.write("\
             Description\
           </a>\
           <div class=\"dropdown-menu dropdown-menu-right\" aria-labelledby=\"navbarDropdownDescription\">\
-            <a class=\"dropdown-item\" href=\"index.html\">Overview</a>\
+            <a class=\"dropdown-item\" href=\"overview.html\">Overview</a>\
           </div>\
         </li>\
         <li class=\"nav-item\">\
