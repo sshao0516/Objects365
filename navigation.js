@@ -2,7 +2,7 @@ document.write("\
 <nav class=\"navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top\">\
   <div class=\"container\">\
     <a class=\"navbar-brand col-lg-2\" href=\"overview.html\">\
-        <img src=\"images/logo.png\" width=100% alt=\"Megvii Inc. (Face++)\"/>\
+        <!--img src=\"images/logo.png\" width=100% alt=\"Megvii Technology\"-->\
     </a>\
     <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarResponsive\" aria-controls=\"navbarResponsive\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\
       <span class=\"navbar-toggler-icon\"></span>\
@@ -10,16 +10,8 @@ document.write("\
     <div class=\"collapse navbar-collapse\" id=\"navbarResponsive\">\
       <ul class=\"navbar-nav ml-auto\">\
         <!-- Home button -->\
-        <!-- li class=\"nav-item\">\
-          <a class=\"nav-link\" href=\"about.html\">Home</a>\
-        </li -->\
-        <li class=\"nav-item dropdown\">\
-          <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbarDropdownDescription\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\
-            Description\
-          </a>\
-          <div class=\"dropdown-menu dropdown-menu-right\" aria-labelledby=\"navbarDropdownDescription\">\
-            <a class=\"dropdown-item\" href=\"overview.html\">Overview</a>\
-          </div>\
+        <li class=\"nav-item\">\
+          <a class=\"nav-link\" href=\"overview.html\">Home</a>\
         </li>\
         <li class=\"nav-item\">\
           <a class=\"nav-link\" href=\"explore.html\">Explore</a>\
