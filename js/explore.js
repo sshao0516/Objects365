@@ -65,7 +65,7 @@ function creatCategoryButton(mainCategory) {
 
 function addAImg(imgId, url, boxes) {
     var div = '';
-    div = '<div class="col-lg-12" id="imageDisplay' + imgId + '"><canvas class="canvas"></canvas></div>';
+    div = '<div class="col-lg-12" id="imageDisplay' + imgId + '"><canvas class="canvas" style="margin-top:10px"></canvas></div>';
     $('#ImageDisplayList').append(div);
     display = $('#imageDisplay' + imgId);
     var canvas = display.find('.canvas')[0];
