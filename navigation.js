@@ -22,7 +22,6 @@ document.write("\
           </a>\
           <div class=\"dropdown-menu dropdown-menu-right\" aria-labelledby=\"navbarDropdownDataset\">\
             <a class=\"dropdown-item\" href=\"download.html\">Download</a>\
-            <a class=\"dropdown-item\" href=\"terms_of_use.html\">Terms of Use</a>\
           </div>\
         </li>\
         <li class=\"nav-item dropdown\">\
