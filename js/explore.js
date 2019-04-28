@@ -89,7 +89,7 @@ function loadRandomData(cid) {
     // TODO
     var ret=[];
     $.ajaxSettings.async = false;
-    $.getJSON("new_data_samples.txt", function (data) {
+    $.getJSON("data_samples.txt", function (data) {
         for(var i = 0; i < data.length; i++) {
             var img_flag = 0;
             for (var j = 0; j < data[i]['gtboxes'].length; j++) {
