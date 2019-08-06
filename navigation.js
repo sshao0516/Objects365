@@ -33,6 +33,16 @@ document.write("\
           </div>\
         </li>\
         <li class=\"nav-item dropdown\">\
+          <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbarDropdownLeaderboard\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\
+            Leaderboard\
+          </a>\
+          <div class=\"dropdown-menu dropdown-menu-right\" aria-labelledby=\"navbarDropdownLeaderboard\">\
+            <a class=\"dropdown-item\" href=\"full_track.html\">Object365 Full Track</a>\
+            <a class=\"dropdown-item\" href=\"tiny_track.html\">Object365 Tiny Track</a>\
+            <a class=\"dropdown-item\" href=\"crowd_human_track.html\">Object365 Crowd Human Track</a>\
+          </div>\
+        </li>\
+        <li class=\"nav-item dropdown\">\
           <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbarDropdownAbout\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\
             About\
           </a>\
