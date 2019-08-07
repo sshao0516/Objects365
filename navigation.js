@@ -39,7 +39,7 @@ document.write("\
           <div class=\"dropdown-menu dropdown-menu-right\" aria-labelledby=\"navbarDropdownLeaderboard\">\
             <a class=\"dropdown-item\" href=\"full_track.html\">Object365 Full Track</a>\
             <a class=\"dropdown-item\" href=\"tiny_track.html\">Object365 Tiny Track</a>\
-            <a class=\"dropdown-item\" href=\"crowd_human_track.html\">Object365 Crowd Human Track</a>\
+            <a class=\"dropdown-item\" href=\"crowd_human_track.html\">CrowdHuman Track</a>\
           </div>\
         </li>\
         <li class=\"nav-item dropdown\">\
