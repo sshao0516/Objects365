@@ -2,7 +2,7 @@ document.write("\
 <div class=\"container\">\
   <p class=\"m-0 text-center text-white\">\
   info@objects365.org<br>\
-  Copyright &copy; <a href=\"https://www.megvii.com\">Megvii Technology Ltd.</a> 2018-2019</p>\
+  Copyright &copy; <a href=\"https://www.megvii.com\">Megvii Technology Ltd.</a> 2018-2020</p>\
 </div>\
 ");
 
