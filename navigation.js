@@ -29,7 +29,7 @@ document.write("\
             Challenges\
           </a>\
           <div class=\"dropdown-menu dropdown-menu-right\" aria-labelledby=\"navbarDropdownChallenges\">\
-            <a class=\"dropdown-item\" href=\"workshop2019.html\">Detection In the Wild Challenge Workshop 2019</a>\
+            <a class=\"dropdown-item\" href=\"workshop2019.html\">Detection In the Wild Challenge Workshop</a>\
           </div>\
         </li>\
         <li class=\"nav-item dropdown\">\
@@ -37,9 +37,9 @@ document.write("\
             Leaderboard\
           </a>\
           <div class=\"dropdown-menu dropdown-menu-right\" aria-labelledby=\"navbarDropdownLeaderboard\">\
-            <a class=\"dropdown-item\" href=\"full_track.html\">DIW 2019-Objects365 Full Track</a>\
-            <a class=\"dropdown-item\" href=\"tiny_track.html\">DIW 2019-Objects365 Tiny Track</a>\
-            <a class=\"dropdown-item\" href=\"crowd_human_track.html\">DIW 2019-CrowdHuman Track</a>\
+            <a class=\"dropdown-item\" href=\"full_track.html\">DIW Objects365 Full Track</a>\
+            <a class=\"dropdown-item\" href=\"tiny_track.html\">DIW Objects365 Tiny Track</a>\
+            <a class=\"dropdown-item\" href=\"crowd_human_track.html\">DIW CrowdHuman Track</a>\
           </div>\
         </li>\
         <li class=\"nav-item dropdown\">\
